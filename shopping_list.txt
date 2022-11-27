@@ -1,0 +1,9 @@
+- Eggs
+- Milk
+- Bread
+- Orange juice
+- Cookies
+- Cereal
+- Fruits
+- Vegetables
+- Butter
