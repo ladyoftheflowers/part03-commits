@@ -1,4 +1,4 @@
-Hello!
+Hello from GitHub!
 
 Here are some notes:
   - 1
