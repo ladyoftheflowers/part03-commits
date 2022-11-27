@@ -7,3 +7,5 @@
 - Fruits
 - Vegetables
 - Butter
+- Sugar
+- Salt
